@@ -1,0 +1,1 @@
+Hey there , I am created by write file method of fs synchronously     j
